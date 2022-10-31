@@ -9,7 +9,7 @@ public class Game {
 
     public static void main(String[] args) {
         ArrayList <Monster> monsters = new ArrayList<Monster>();
-        Player player = new Player("Sindre", "Warrior");
+        Player player = new Player("Robin", "Warrior");
         Monster monster1 = new Monster ("Dragon", 40, 120, 50);
         Monster monster2= new Monster ("Vampyre", 50, 123, 30);
         Monster monster3 = new Monster ("Zombie", 31, 120, 50);
