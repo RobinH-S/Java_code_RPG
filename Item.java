@@ -1,6 +1,6 @@
 /**
  * Denne klassen representer en gjenstand spilleren kan kjøpe
- * Created by Sindre on 23.09.2016.
+ * Created by Robin on 23.09.2016.
  */
 public class Item {
     private String name, description, action;
